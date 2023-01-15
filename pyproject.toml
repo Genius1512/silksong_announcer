@@ -9,6 +9,8 @@ packages = [{include = "silksong_announcer"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+python-steam-api = "^1.0.7"
+beautifulsoup4 = "^4.11.1"
 
 [tool.poetry.group.dev.dependencies]
 black = "^22.12.0"
